@@ -5,6 +5,7 @@ public class Task1_3{
         System.out.print("Inpun your number: ");
         int number=in.nextInt();
         System.out.println("Your number is "+number);
+        in.close();
     }
 
-{
+}
