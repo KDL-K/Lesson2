@@ -11,5 +11,6 @@ public class Task1_22{
         System.out.print("Input a: ");
         double a=in.nextDouble();
         System.out.println("a=12*"+a*a+"-7*"+a+"-16="+(12*a*a-7*a-16));
+        in.close();
     }
 }
