@@ -14,6 +14,6 @@ public class Task1_12{
         System.out.println();
         System.out.println("а) 5 10        б) 100 "+t+"        в) "+x+" 25");
         System.out.println("   7 см           1949 "+v+"          "+x+" "+y);
-        
+        in.close();
     }
 }
