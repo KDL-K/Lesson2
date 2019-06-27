@@ -7,5 +7,6 @@ public class Task1_33{
         System.out.print("Input the size of the country(km): ");
         long size=in.nextLong();
         System.out.println("Population per square kilometer: "+(residents/size));
+        in.close();
     }
 }
