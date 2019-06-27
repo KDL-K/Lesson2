@@ -14,5 +14,6 @@ public class Task1_60a{
         c=a;
         System.out.println("After changes:");
         System.out.println("a="+a+"   b="+b+"   c="+c);
+        in.close();
     }
 }
