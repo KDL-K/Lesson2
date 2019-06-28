@@ -28,6 +28,6 @@ public class Task4_5{
                     break;
               }
            }while (menu != 3);
-
+          in.close();
      } 
 }
